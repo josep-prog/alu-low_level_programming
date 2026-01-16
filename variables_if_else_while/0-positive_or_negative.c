@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 /* betty style doc for function main goes there */
+// this program checks for number whether positive , negative or zero
 int main(void)
 {
 	int n;
