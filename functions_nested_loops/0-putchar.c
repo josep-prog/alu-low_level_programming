@@ -1,7 +1,11 @@
 #include "main.h"
 
 /**
+<<<<<<< HEAD
  * main -  prints _putchar, followed by a new line
+=======
+ * main - prints _putchar, followed by a new line
+>>>>>>> 9f7cffe (0-putchar.c)
  * Return: Always 0 (Success)
  */
 int main(void)
